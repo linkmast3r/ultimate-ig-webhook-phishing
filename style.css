@@ -1,0 +1,55 @@
+* {
+    margin: 0
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffffff;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' %3E%3Cdefs%3E%3ClinearGradient id='a' x1='0' x2='0' y1='0' y2='1'%3E%3Cstop offset='0' stop-color='%2380F'/%3E%3Cstop offset='1' stop-color='%23f40'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpattern id='b' width='24' height='24' patternUnits='userSpaceOnUse'%3E%3Ccircle fill='%23ffffff' cx='12' cy='12' r='12'/%3E%3C/pattern%3E%3Crect width='100%25' height='100%25' fill='url(%23a)'/%3E%3Crect width='100%25' height='100%25' fill='url(%23b)' fill-opacity='0.1'/%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.form-register { 
+    height: 100%;
+    width: 400px;
+    background: #F28BB1;
+    padding: 40px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 4px;
+    font-family: 'arial';
+    color: black;
+    box-shadow: 7px 13px 37px black;
+}
+
+.form-register h4 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.controls {
+    width: 100%;
+    background: #C77D98;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    border: 1px solid #00173D;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.form-register .botons { 
+    width: 100%;
+    color: black;
+    background: #B590A3;
+    border: none;
+    font-family: arial;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
