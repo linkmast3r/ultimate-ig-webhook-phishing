@@ -1,5 +1,5 @@
 
-# ltimate Instagram Phishing!!
+# Ultimate Instagram Phishing!!
 
 #### *Disclaimer: This is ONLY for educational purposes.*
 
